@@ -58,9 +58,9 @@
 		<div class="function">Application Developer</div>
 		
 		<div class="icons">
-			<div class="icon"><a href="https://github.com/jvbijleveld"><img src="./images/twitter.png"></a></div>
-			<div class="icon"><a href="https://github.com/jvbijleveld"><img src="./images/GitHub.png"></a></div>
-			<div class="icon"><a href="https://github.com/jvbijleveld"><img src="./images/linkedin.png"></a></div>
+			<div class="icon"><a href="https://twitter.com/jvbijleveld" target="_blank"><img src="./images/twitter.png"></a></div>
+			<div class="icon"><a href="https://github.com/jvbijleveld" target="_blank"><img src="./images/GitHub.png"></a></div>
+			<div class="icon"><a href="https://www.linkedin.com/in/jvbijleveld/" target="_blank"><img src="./images/linkedin.png"></a></div>
 			
 		</div>
 	</div>
